@@ -1,7 +1,6 @@
-# Log-analysis-challenge
-🔍 Learn how to analyze server logs for security insights!  This Python script extracts IPs, failed logins, and invalid users from logs. 
-
 # 🔍 Log Analysis Challenge
+
+Learn how to analyze server logs for security insights!  This Python script extracts IPs, failed logins, and invalid users from logs. 
 
 ## 🚀 About This Project
 This challenge helps you analyze server logs for security insights!  
