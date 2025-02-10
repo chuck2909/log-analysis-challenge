@@ -19,3 +19,8 @@ Using Python, this script extracts:
    ```sh
    git clone https://github.com/chuck2909/log-analysis-challenge.git
    cd log-analysis-challenge
+
+🏆 Challenge: Modify This Script!
+	•	🔹 Can you make this work with real-time logs?
+	•	🔹 Add support for analyzing firewall logs!
+	•	🔹 Detect brute-force attempts from the same IP.
